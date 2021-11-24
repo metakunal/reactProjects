@@ -1,6 +1,8 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Memory Game
+
+A classical card flip game implemented using useState and useEffect hooks.
 
 ## Available Scripts
 
